@@ -736,6 +736,7 @@ h3,
     padding: 12px 20px;
     border-radius: 50px;
     transition: var(--transition);
+    margin-bottom: 5px;
 }
 
 .contact-item:hover {
